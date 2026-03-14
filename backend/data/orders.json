@@ -1,0 +1,55 @@
+{
+    "1452": {
+        "status": "Shipped",
+        "estimated_delivery": "Tomorrow",
+        "tracking_number": "TRK-998877",
+        "items": [
+            "Wireless Headphones",
+            "Phone Case"
+        ],
+        "total": "$89.99",
+        "shipped_date": "2026-03-13"
+    },
+    "7831": {
+        "status": "Processing",
+        "estimated_delivery": "3 days",
+        "tracking_number": null,
+        "items": [
+            "Laptop Stand",
+            "USB-C Hub"
+        ],
+        "total": "$124.50",
+        "shipped_date": null
+    },
+    "2290": {
+        "status": "Delivered",
+        "estimated_delivery": "Delivered on March 10",
+        "tracking_number": "TRK-556644",
+        "items": [
+            "Mechanical Keyboard"
+        ],
+        "total": "$159.00",
+        "shipped_date": "2026-03-07"
+    },
+    "3345": {
+        "status": "Cancelled",
+        "estimated_delivery": "N/A",
+        "tracking_number": null,
+        "items": [
+            "Monitor Arm"
+        ],
+        "total": "$49.99",
+        "shipped_date": null
+    },
+    "5510": {
+        "status": "Shipped",
+        "estimated_delivery": "2 days",
+        "tracking_number": "TRK-112233",
+        "items": [
+            "Webcam HD Pro",
+            "Ring Light"
+        ],
+        "total": "$210.00",
+        "shipped_date": "2026-03-12"
+    }
+}
